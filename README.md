@@ -8,4 +8,4 @@ Dependant on these python libraries:
 -numpy
 -pynput
 
-May not work when rendering in resolutions besides 1920x1080, or in windowed mode.
+May not work when rendering in resolutions other than 1920x1080, or in windowed mode.
