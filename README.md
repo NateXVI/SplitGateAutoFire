@@ -3,9 +3,14 @@ Python cheat for the game Splitgate: Arena Warfare. The cheat makes it so your g
 
 
 Dependant on these python libraries:
+
 -cv2
+
 -mss
+
 -numpy
+
 -pynput
+
 
 May not work when rendering in resolutions other than 1920x1080, or in windowed mode.
